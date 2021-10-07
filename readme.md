@@ -1,0 +1,1 @@
+python train.py --config configs/SHT.yaml --gpu 2 --tag 1007
